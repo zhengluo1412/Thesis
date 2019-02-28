@@ -1,0 +1,5 @@
+*.ipynb
+*.idea
+.*
+!/.gitignore
+/__pycache__
